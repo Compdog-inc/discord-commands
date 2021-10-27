@@ -4,6 +4,7 @@ using DiscordCommands.Shared;
 
 namespace MyCommands
 {
+    // This command responds to /test
     public class ExampleCommand : ICommand
     {
         public void Init(Manager<string, ICommand> manager)
