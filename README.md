@@ -2,7 +2,7 @@
 
 ## Setup
 Every reload of discord you need to run the script [discord-commands.js](discord-commands.js) in the discord console.  
-You also need to run the host locally (`DiscordComands.exe`).  
+You also need to run the host locally (`DiscordCommands.exe`).  
 Once the setup is done you can send `/help` in any channel/DM to test it.
 
 ## Run commands in channels (including DMs)
